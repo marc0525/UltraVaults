@@ -3,10 +3,10 @@
 # UltraVaults configuration file
 
 # Title or prefix format
-prefix: "&8[&r&6Rival&fCraft&8]"
+prefix: "&9[&l&bOmicron&4PE&r&9]"
 
 # Maximum vault per player (without permission)
-max.vault: 2
+max.vault: 3
 
 # Vault permission settings
 # I recommend not change
